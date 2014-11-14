@@ -1,5 +1,7 @@
-Level 1 Heading
+ISVerticallyAlignedLabel
 ===============
+ISVerticallyAlignedLabel is UILabel descendant with ability to vertically align text and inset text.
 
-Level 2 Heading
+Installation
 ---------------
+Drag the `ISVerticallyAlignedLabel` folder into your project.
