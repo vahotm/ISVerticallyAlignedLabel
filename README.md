@@ -10,7 +10,7 @@ Drag the `ISVerticallyAlignedLabel` folder into your project.
 
 Usage
 ---------------
-Set vertical alignment:
+__Set vertical alignment:__
 
 ```objective-c
 verticallyAlignedLabel.verticalAlignment = ISVerticalAlignmentTop;
@@ -20,7 +20,7 @@ There are three options available:
 * `ISVerticalAlignmentCenter`
 * `ISVerticalAlignmentBottom`
 
-Set text insets:
+__Set text insets:__
 
 ```objective-c
 verticallyAlignedLabel.textInsets = UIEdgeInsetsMake(10, 10, 10, 10);
