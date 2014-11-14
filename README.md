@@ -10,14 +10,16 @@ Usage
 ---------------
 Set vertical alignment:
 
-```ISVerticallyAlignedLabel* someLabel;
+```objective-c
+ISVerticallyAlignedLabel* someLabel;
 //	some code
 someLabel.verticalAlignment = ISVerticalAlignmentTop;
 ```
 
 Set text insets:
 
-```ISVerticallyAlignedLabel* someLabel;
+```objective-c
+ISVerticallyAlignedLabel* someLabel;
 //	some code
 someLabel.textInsets = UIEdgeInsetsMake(10, 10, 10, 10);
 ```
