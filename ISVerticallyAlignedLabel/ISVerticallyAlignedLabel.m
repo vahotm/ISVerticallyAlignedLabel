@@ -10,49 +10,8 @@
 
 @implementation ISVerticallyAlignedLabel
 
-//
-//#pragma mark -
-//#pragma mark Initialization
-//
-//- (instancetype)init
-//{
-//    self = [super init];
-//    if (self) {
-//        [self initialize];
-//    }
-//    return self;
-//}
-//
-//- (instancetype)initWithCoder:(NSCoder *)aDecoder
-//{
-//    self = [super initWithCoder:aDecoder];
-//    if (self) {
-//        [self initialize];
-//    }
-//    return self;
-//}
-//
-//- (instancetype)initWithFrame:(CGRect)frame
-//{
-//    self = [super initWithFrame:frame];
-//    if (self) {
-//        [self initialize];
-//    }
-//    return self;
-//}
-//
-//- (void)initialize
-//{
-//    
-//}
-
 #pragma mark -
 #pragma mark Drawing
-
-- (void)drawRect:(CGRect)rect
-{
-    [super drawRect:rect];
-}
 
 - (void)drawTextInRect:(CGRect)rect
 {
