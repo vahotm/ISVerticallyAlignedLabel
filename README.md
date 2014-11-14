@@ -1,6 +1,8 @@
 ISVerticallyAlignedLabel
 ===============
-ISVerticallyAlignedLabel is UILabel descendant with ability to vertically align text and inset text.
+ISVerticallyAlignedLabel is UILabel descendant with following features:
+* vertical alignment;
+* text insets.
 
 Installation
 ---------------
