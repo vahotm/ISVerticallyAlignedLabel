@@ -13,17 +13,17 @@ Usage
 Set vertical alignment:
 
 ```objective-c
-ISVerticallyAlignedLabel* someLabel;
-//	some code
-someLabel.verticalAlignment = ISVerticalAlignmentTop;
+verticallyAlignedLabel.verticalAlignment = ISVerticalAlignmentTop;
 ```
+There are three options available:
+* `ISVerticalAlignmentTop`
+* `ISVerticalAlignmentCenter`
+* `ISVerticalAlignmentBottom`
 
 Set text insets:
 
 ```objective-c
-ISVerticallyAlignedLabel* someLabel;
-//	some code
-someLabel.textInsets = UIEdgeInsetsMake(10, 10, 10, 10);
+verticallyAlignedLabel.textInsets = UIEdgeInsetsMake(10, 10, 10, 10);
 ```
 
 Requirements
