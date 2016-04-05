@@ -1,9 +1,8 @@
 //
 //  ISVerticallyAlignedLabel.h
-//  Zenify
 //
 //  Created by Ivan Samalazau on 14.11.14.
-//  Copyright (c) 2014 Balica Stefan. All rights reserved.
+//  Copyright (c) 2014 Ivan Samalazau. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
